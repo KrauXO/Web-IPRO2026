@@ -22,7 +22,7 @@ const Footer = () => {
           </li> */}
           <li>
             <Link
-              href="https://bit.ly/SyaratKetentuan-IPRO2024"
+              href="https://bit.ly/SyaratKetentuan-IPRO2026"
               target="_blank"
               className="hover:underline"
             >
